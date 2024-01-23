@@ -1,0 +1,139 @@
+  @import url('https://fonts.googleapis.com/css2?family=Jura:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Jura', sans-serif;
+}
+.foot{
+    text-align: center;
+    height: 8vh;
+    color: beige;
+    background-color:#2E1B50 ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header nav ul {
+    height: 9vh;
+    background-color:#351b50 ;
+    list-style: none;
+    
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    
+}
+header nav ul a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 14px;
+}
+main{
+    height: 190vh;
+    width:100vw;
+    background-color: #2E1B50;
+}
+.box1{
+    background-color: #341f58;
+    background:radial-gradient(#8642FF,#2E1B50);
+    width: 60vw;
+    height: 50vh;
+    border:5px groove #955AFF;
+    margin: auto; 
+    margin-bottom: 30vh;
+       
+}
+img{
+    width: 50%;
+    
+}
+.headphone{
+   position: relative;
+   left: 520px;
+   bottom:180px;
+
+}
+.boxhead1{
+    color: white;
+    font-size:8ch;
+    padding:10px;
+}
+main div p{
+    color: whitesmoke;
+    padding-right:50vh;
+    padding-left: 15px;
+}
+.box1button{
+    color:white;
+    background-color: #5b2fa7;
+    width: 15vw;
+    height:4vh;
+    font-size: larger;
+    position: relative;
+    left: 3vw;
+    top: 17vh;
+}
+
+.box2{
+    background-color: #341f58;
+   text-align: center;
+   display: flex;
+            align-items: center;
+   
+}
+.girl{
+    width: 60%;
+    margin-right: 20px;
+}
+
+h1{
+    color: white;
+    font-size:450%;
+    padding-left: 3vh;
+
+}
+.box2 ul{
+    display: inline-block;
+    color: white;
+    padding-right: 50px;
+    padding-bottom: 19px;
+    font-size: larger;
+    margin-bottom: 10vh;
+ 
+}
+.box3{
+    color: white;
+    text-align: center;
+    padding:20px;
+}
+.buynow{
+    width:40vw;
+    padding:40px;
+    display: flex;
+    justify-content: left;
+    padding-left: 180px;
+
+    
+}
+.box3button{
+    color:white;
+    background-color: #5b2fa7;
+    width: 20vw;
+    height:6vh;
+    font-size:large;
+    position: relative;
+    left: 250px;
+    bottom:150px;
+    border-radius: 50px;
+    
+}
+
+
+
+
+
+
+
+
